@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Url Shortener</string>
+    <string name="url">Url</string>
+    <string name="shortened_urls">Shortened URLs</string>
+    <string name="no_urls">No URLs shortened yet</string>
+    <string name="url_already_exists">URL already exists in list</string>
+    <string name="url_shortened_successfully">URL shortened successfully</string>
+    <string name="error_shortening_url">Error shortening URL. Please try again.</string>
+    <string name="error_no_internet_connection">No internet connection, please check your internet connection.</string>
+    <string name="error_loading_history">Error loading history. Please try again.</string>
+
+    <string name="content_description_send_button">Click on button to shorten url</string>
+</resources>
